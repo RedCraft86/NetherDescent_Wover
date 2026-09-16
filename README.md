@@ -1,5 +1,5 @@
 ## NetherDescent Wover Compat
-A compatibility mod that registers [Nether Descent's](https://modrinth.com/mod/nether-descent) biomes using [World Weaver: New Dawn's](https://modrinth.com/mod/worldweaver-neoforge) API for worldgen support since WoVer isn't compatible with [Biolith](https://modrinth.com/mod/biolith) and tends to override [Lithostitched's](https://modrinth.com/mod/lithostitched) `add_points` injection that ND uses.
+A compatibility mod that registers [Nether Descent's](https://modrinth.com/mod/nether-descent) biomes using [World Weaver: New Dawn's](https://modrinth.com/mod/worldweaver-neoforge) API for worldgen support since Wover isn't compatible with [Biolith](https://modrinth.com/mod/biolith) and tends to override [Lithostitched's](https://modrinth.com/mod/lithostitched) `add_points` injection that ND uses.
 
 ### **Modpack Usage**
 You may include this mod into your own modpacks.
