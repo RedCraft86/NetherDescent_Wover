@@ -1,0 +1,19 @@
+{
+  "type": "netherdescent:biome",
+  "biome": "netherdescent:wailing_garth",
+  "generation_data": {
+    "intended_placement": "minecraft:is_nether",
+    "parameter_points": [
+      {
+        "continentalness": 0.0,
+        "depth": 0.0,
+        "erosion": 0.0,
+        "humidity": 0.0,
+        "offset": 0.175,
+        "temperature": -0.4,
+        "weirdness": 0.0
+      }
+    ]
+  },
+  "vertical": true
+}
